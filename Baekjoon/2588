@@ -18,4 +18,5 @@ int main(void)
 	z = a * e;
 	printf("%d\n%d\n%d\n", x, y, z);
 	printf("%d", x + y * 10 + z * 100);
+	
 }
