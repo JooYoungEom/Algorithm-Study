@@ -13,4 +13,5 @@ int main(void)
 	printf("%d\n",(a * b) % c);
 	
 	printf("%d\n",((a % c) * (b % c)) % c);
+	
 }
