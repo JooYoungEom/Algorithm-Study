@@ -5,6 +5,7 @@
 
 int main(void)
 {
+	
 	int a, b, c, d, e = 0;
 	int x, y, z = 0;
 	scanf("%d", &a);
